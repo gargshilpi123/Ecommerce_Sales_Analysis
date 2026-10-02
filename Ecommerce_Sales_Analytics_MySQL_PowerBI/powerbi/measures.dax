@@ -1,0 +1,41 @@
+-- Power BI DAX measures
+-- Create a relationship model: Customers[customer_id] 1:* Orders[customer_id]
+-- Orders[order_id] 1:* Order_Items[order_id]
+-- Products[product_id] 1:* Order_Items[product_id]
+-- Use Orders[order_date] as the date field; optionally create a Date table.
+
+Revenue =
+CALCULATE(
+    SUMX(Order_Items, Order_Items[quantity] * Order_Items[unit_price] * (1 - Order_Items[discount_pct])),
+    NOT(Orders[order_status] IN {"Cancelled", "Returned"})
+)
+
+Total Cost =
+CALCULATE(
+    SUMX(Order_Items, Order_Items[quantity] * Order_Items[unit_cost]),
+    NOT(Orders[order_status] IN {"Cancelled", "Returned"})
+)
+
+Profit = [Revenue] - [Total Cost]
+
+Profit Margin % = DIVIDE([Profit], [Revenue], 0)
+
+Total Orders =
+CALCULATE(DISTINCTCOUNT(Orders[order_id]),
+    NOT(Orders[order_status] IN {"Cancelled", "Returned"}))
+
+Total Customers = DISTINCTCOUNT(Orders[customer_id])
+
+Average Order Value = DIVIDE([Revenue], [Total Orders], 0)
+
+Units Sold =
+CALCULATE(SUM(Order_Items[quantity]),
+    NOT(Orders[order_status] IN {"Cancelled", "Returned"}))
+
+Cancelled Orders = CALCULATE(DISTINCTCOUNT(Orders[order_id]), Orders[order_status] = "Cancelled")
+
+Returned Orders = CALCULATE(DISTINCTCOUNT(Orders[order_id]), Orders[order_status] = "Returned")
+
+Repeat Customers =
+COUNTROWS(FILTER(VALUES(Orders[customer_id]),
+    CALCULATE(DISTINCTCOUNT(Orders[order_id]), NOT(Orders[order_status] IN {"Cancelled", "Returned"})) > 1))

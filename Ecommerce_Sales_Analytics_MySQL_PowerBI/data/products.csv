@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Earbuds,Electronics,1586,1167.73
+2,Smart Watch,Electronics,7910,4744.31
+3,Bluetooth Speaker,Electronics,6489,3426.83
+4,Power Bank,Electronics,3162,2201.34
+5,Keyboard,Electronics,10130,4910.43
+6,T-Shirt,Fashion,9844,4646.02
+7,Jeans,Fashion,5836,2907.71
+8,Sneakers,Fashion,7234,5223.95
+9,Backpack,Fashion,3995,1987.42
+10,Jacket,Fashion,3896,2937.27
+11,Mixer Grinder,Home & Kitchen,7283,3961.64
+12,Cookware Set,Home & Kitchen,2194,1098.52
+13,Bedsheet,Home & Kitchen,5603,2560.45
+14,Desk Lamp,Home & Kitchen,1607,752.53
+15,Water Bottle,Home & Kitchen,2539,1187.28
+16,Face Wash,Beauty,2302,1484.97
+17,Moisturizer,Beauty,6312,3660.32
+18,Sunscreen,Beauty,8248,4577.12
+19,Shampoo,Beauty,11816,8729.09
+20,Perfume,Beauty,6178,4515.34
+21,Business Book,Books,6554,3341.85
+22,Fiction Novel,Books,760,401.38
+23,Data Analytics Guide,Books,2929,1870.19
+24,Cookbook,Books,3180,1867.83
+25,Biography,Books,3566,2044.36

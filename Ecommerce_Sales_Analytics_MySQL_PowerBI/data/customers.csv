@@ -1,0 +1,251 @@
+customer_id,customer_name,email,city,state,signup_date
+1,Customer 001,customer001@example.com,Delhi,Delhi,2025-02-12
+2,Customer 002,customer002@example.com,Kolkata,West Bengal,2024-03-14
+3,Customer 003,customer003@example.com,Chennai,Tamil Nadu,2025-05-08
+4,Customer 004,customer004@example.com,Delhi,Delhi,2024-11-28
+5,Customer 005,customer005@example.com,Bengaluru,Karnataka,2023-04-05
+6,Customer 006,customer006@example.com,Pune,Maharashtra,2025-09-02
+7,Customer 007,customer007@example.com,Jaipur,Rajasthan,2025-01-31
+8,Customer 008,customer008@example.com,Jaipur,Rajasthan,2025-02-25
+9,Customer 009,customer009@example.com,Pune,Maharashtra,2023-05-09
+10,Customer 010,customer010@example.com,Ahmedabad,Gujarat,2024-03-26
+11,Customer 011,customer011@example.com,Pune,Maharashtra,2024-01-06
+12,Customer 012,customer012@example.com,Mumbai,Maharashtra,2025-07-15
+13,Customer 013,customer013@example.com,Jaipur,Rajasthan,2024-10-05
+14,Customer 014,customer014@example.com,Chennai,Tamil Nadu,2025-04-02
+15,Customer 015,customer015@example.com,Pune,Maharashtra,2024-03-19
+16,Customer 016,customer016@example.com,Chennai,Tamil Nadu,2023-08-16
+17,Customer 017,customer017@example.com,Delhi,Delhi,2024-07-08
+18,Customer 018,customer018@example.com,Ahmedabad,Gujarat,2023-03-05
+19,Customer 019,customer019@example.com,Ahmedabad,Gujarat,2025-04-07
+20,Customer 020,customer020@example.com,Bengaluru,Karnataka,2024-09-23
+21,Customer 021,customer021@example.com,Mumbai,Maharashtra,2025-01-28
+22,Customer 022,customer022@example.com,Jaipur,Rajasthan,2023-12-21
+23,Customer 023,customer023@example.com,Delhi,Delhi,2025-08-28
+24,Customer 024,customer024@example.com,Chennai,Tamil Nadu,2025-06-12
+25,Customer 025,customer025@example.com,Kolkata,West Bengal,2025-02-17
+26,Customer 026,customer026@example.com,Jaipur,Rajasthan,2023-07-14
+27,Customer 027,customer027@example.com,Hyderabad,Telangana,2024-04-11
+28,Customer 028,customer028@example.com,Chennai,Tamil Nadu,2023-02-13
+29,Customer 029,customer029@example.com,Pune,Maharashtra,2023-06-04
+30,Customer 030,customer030@example.com,Jaipur,Rajasthan,2024-11-14
+31,Customer 031,customer031@example.com,Lucknow,Uttar Pradesh,2025-01-14
+32,Customer 032,customer032@example.com,Hyderabad,Telangana,2025-08-25
+33,Customer 033,customer033@example.com,Chennai,Tamil Nadu,2023-11-22
+34,Customer 034,customer034@example.com,Lucknow,Uttar Pradesh,2024-01-06
+35,Customer 035,customer035@example.com,Delhi,Delhi,2024-04-14
+36,Customer 036,customer036@example.com,Jaipur,Rajasthan,2023-07-09
+37,Customer 037,customer037@example.com,Chennai,Tamil Nadu,2023-05-10
+38,Customer 038,customer038@example.com,Kolkata,West Bengal,2024-04-20
+39,Customer 039,customer039@example.com,Hyderabad,Telangana,2023-08-15
+40,Customer 040,customer040@example.com,Pune,Maharashtra,2024-10-31
+41,Customer 041,customer041@example.com,Lucknow,Uttar Pradesh,2024-03-13
+42,Customer 042,customer042@example.com,Mumbai,Maharashtra,2025-04-12
+43,Customer 043,customer043@example.com,Kolkata,West Bengal,2024-12-01
+44,Customer 044,customer044@example.com,Delhi,Delhi,2023-11-09
+45,Customer 045,customer045@example.com,Jaipur,Rajasthan,2025-04-12
+46,Customer 046,customer046@example.com,Chennai,Tamil Nadu,2025-03-15
+47,Customer 047,customer047@example.com,Ahmedabad,Gujarat,2024-01-23
+48,Customer 048,customer048@example.com,Ahmedabad,Gujarat,2023-10-16
+49,Customer 049,customer049@example.com,Bengaluru,Karnataka,2024-11-13
+50,Customer 050,customer050@example.com,Kolkata,West Bengal,2023-05-20
+51,Customer 051,customer051@example.com,Ahmedabad,Gujarat,2023-07-19
+52,Customer 052,customer052@example.com,Ahmedabad,Gujarat,2023-01-08
+53,Customer 053,customer053@example.com,Jaipur,Rajasthan,2025-02-25
+54,Customer 054,customer054@example.com,Jaipur,Rajasthan,2024-10-26
+55,Customer 055,customer055@example.com,Chennai,Tamil Nadu,2024-12-06
+56,Customer 056,customer056@example.com,Bengaluru,Karnataka,2025-02-19
+57,Customer 057,customer057@example.com,Pune,Maharashtra,2024-04-03
+58,Customer 058,customer058@example.com,Pune,Maharashtra,2024-07-22
+59,Customer 059,customer059@example.com,Delhi,Delhi,2023-05-20
+60,Customer 060,customer060@example.com,Bengaluru,Karnataka,2023-04-25
+61,Customer 061,customer061@example.com,Chennai,Tamil Nadu,2024-10-30
+62,Customer 062,customer062@example.com,Kolkata,West Bengal,2024-04-16
+63,Customer 063,customer063@example.com,Ahmedabad,Gujarat,2024-07-19
+64,Customer 064,customer064@example.com,Delhi,Delhi,2025-02-03
+65,Customer 065,customer065@example.com,Pune,Maharashtra,2024-09-26
+66,Customer 066,customer066@example.com,Pune,Maharashtra,2024-07-07
+67,Customer 067,customer067@example.com,Delhi,Delhi,2024-07-13
+68,Customer 068,customer068@example.com,Jaipur,Rajasthan,2023-10-31
+69,Customer 069,customer069@example.com,Kolkata,West Bengal,2023-01-31
+70,Customer 070,customer070@example.com,Hyderabad,Telangana,2024-03-12
+71,Customer 071,customer071@example.com,Lucknow,Uttar Pradesh,2023-08-03
+72,Customer 072,customer072@example.com,Bengaluru,Karnataka,2024-02-13
+73,Customer 073,customer073@example.com,Lucknow,Uttar Pradesh,2025-05-03
+74,Customer 074,customer074@example.com,Delhi,Delhi,2023-08-22
+75,Customer 075,customer075@example.com,Ahmedabad,Gujarat,2023-02-28
+76,Customer 076,customer076@example.com,Ahmedabad,Gujarat,2023-10-09
+77,Customer 077,customer077@example.com,Lucknow,Uttar Pradesh,2023-10-21
+78,Customer 078,customer078@example.com,Chennai,Tamil Nadu,2024-10-23
+79,Customer 079,customer079@example.com,Mumbai,Maharashtra,2024-07-11
+80,Customer 080,customer080@example.com,Pune,Maharashtra,2025-02-22
+81,Customer 081,customer081@example.com,Lucknow,Uttar Pradesh,2024-10-26
+82,Customer 082,customer082@example.com,Chennai,Tamil Nadu,2024-02-11
+83,Customer 083,customer083@example.com,Chennai,Tamil Nadu,2025-03-25
+84,Customer 084,customer084@example.com,Hyderabad,Telangana,2023-06-16
+85,Customer 085,customer085@example.com,Hyderabad,Telangana,2023-01-23
+86,Customer 086,customer086@example.com,Mumbai,Maharashtra,2023-04-01
+87,Customer 087,customer087@example.com,Jaipur,Rajasthan,2024-12-23
+88,Customer 088,customer088@example.com,Kolkata,West Bengal,2024-04-06
+89,Customer 089,customer089@example.com,Jaipur,Rajasthan,2023-06-11
+90,Customer 090,customer090@example.com,Lucknow,Uttar Pradesh,2024-05-16
+91,Customer 091,customer091@example.com,Lucknow,Uttar Pradesh,2023-06-02
+92,Customer 092,customer092@example.com,Chennai,Tamil Nadu,2024-11-27
+93,Customer 093,customer093@example.com,Chennai,Tamil Nadu,2024-03-22
+94,Customer 094,customer094@example.com,Mumbai,Maharashtra,2024-01-17
+95,Customer 095,customer095@example.com,Bengaluru,Karnataka,2023-10-29
+96,Customer 096,customer096@example.com,Kolkata,West Bengal,2024-09-22
+97,Customer 097,customer097@example.com,Kolkata,West Bengal,2023-12-28
+98,Customer 098,customer098@example.com,Lucknow,Uttar Pradesh,2023-03-29
+99,Customer 099,customer099@example.com,Hyderabad,Telangana,2023-04-29
+100,Customer 100,customer100@example.com,Hyderabad,Telangana,2025-08-19
+101,Customer 101,customer101@example.com,Hyderabad,Telangana,2025-06-27
+102,Customer 102,customer102@example.com,Chennai,Tamil Nadu,2024-11-30
+103,Customer 103,customer103@example.com,Chennai,Tamil Nadu,2023-09-23
+104,Customer 104,customer104@example.com,Jaipur,Rajasthan,2025-08-27
+105,Customer 105,customer105@example.com,Bengaluru,Karnataka,2025-02-17
+106,Customer 106,customer106@example.com,Bengaluru,Karnataka,2024-12-17
+107,Customer 107,customer107@example.com,Jaipur,Rajasthan,2024-03-25
+108,Customer 108,customer108@example.com,Jaipur,Rajasthan,2023-09-30
+109,Customer 109,customer109@example.com,Delhi,Delhi,2023-04-07
+110,Customer 110,customer110@example.com,Chennai,Tamil Nadu,2025-06-21
+111,Customer 111,customer111@example.com,Mumbai,Maharashtra,2024-03-31
+112,Customer 112,customer112@example.com,Jaipur,Rajasthan,2023-07-22
+113,Customer 113,customer113@example.com,Jaipur,Rajasthan,2023-11-02
+114,Customer 114,customer114@example.com,Ahmedabad,Gujarat,2024-08-02
+115,Customer 115,customer115@example.com,Pune,Maharashtra,2023-06-26
+116,Customer 116,customer116@example.com,Chennai,Tamil Nadu,2025-05-06
+117,Customer 117,customer117@example.com,Delhi,Delhi,2025-01-28
+118,Customer 118,customer118@example.com,Chennai,Tamil Nadu,2024-12-20
+119,Customer 119,customer119@example.com,Kolkata,West Bengal,2024-03-08
+120,Customer 120,customer120@example.com,Hyderabad,Telangana,2024-09-19
+121,Customer 121,customer121@example.com,Mumbai,Maharashtra,2024-08-07
+122,Customer 122,customer122@example.com,Delhi,Delhi,2024-10-11
+123,Customer 123,customer123@example.com,Kolkata,West Bengal,2023-03-26
+124,Customer 124,customer124@example.com,Jaipur,Rajasthan,2024-02-20
+125,Customer 125,customer125@example.com,Jaipur,Rajasthan,2023-02-11
+126,Customer 126,customer126@example.com,Mumbai,Maharashtra,2024-05-08
+127,Customer 127,customer127@example.com,Mumbai,Maharashtra,2023-11-26
+128,Customer 128,customer128@example.com,Kolkata,West Bengal,2023-05-25
+129,Customer 129,customer129@example.com,Kolkata,West Bengal,2023-04-14
+130,Customer 130,customer130@example.com,Mumbai,Maharashtra,2024-08-10
+131,Customer 131,customer131@example.com,Jaipur,Rajasthan,2023-06-20
+132,Customer 132,customer132@example.com,Bengaluru,Karnataka,2025-07-14
+133,Customer 133,customer133@example.com,Lucknow,Uttar Pradesh,2024-08-04
+134,Customer 134,customer134@example.com,Chennai,Tamil Nadu,2023-12-13
+135,Customer 135,customer135@example.com,Kolkata,West Bengal,2024-08-13
+136,Customer 136,customer136@example.com,Bengaluru,Karnataka,2023-01-23
+137,Customer 137,customer137@example.com,Mumbai,Maharashtra,2025-08-16
+138,Customer 138,customer138@example.com,Chennai,Tamil Nadu,2024-04-27
+139,Customer 139,customer139@example.com,Chennai,Tamil Nadu,2025-02-21
+140,Customer 140,customer140@example.com,Delhi,Delhi,2023-03-24
+141,Customer 141,customer141@example.com,Bengaluru,Karnataka,2024-05-01
+142,Customer 142,customer142@example.com,Kolkata,West Bengal,2024-05-05
+143,Customer 143,customer143@example.com,Chennai,Tamil Nadu,2025-07-26
+144,Customer 144,customer144@example.com,Mumbai,Maharashtra,2024-07-25
+145,Customer 145,customer145@example.com,Pune,Maharashtra,2024-04-18
+146,Customer 146,customer146@example.com,Ahmedabad,Gujarat,2023-09-24
+147,Customer 147,customer147@example.com,Lucknow,Uttar Pradesh,2023-11-28
+148,Customer 148,customer148@example.com,Pune,Maharashtra,2024-06-04
+149,Customer 149,customer149@example.com,Ahmedabad,Gujarat,2024-03-14
+150,Customer 150,customer150@example.com,Bengaluru,Karnataka,2023-01-22
+151,Customer 151,customer151@example.com,Hyderabad,Telangana,2025-04-06
+152,Customer 152,customer152@example.com,Delhi,Delhi,2025-06-15
+153,Customer 153,customer153@example.com,Pune,Maharashtra,2023-05-21
+154,Customer 154,customer154@example.com,Hyderabad,Telangana,2024-07-08
+155,Customer 155,customer155@example.com,Hyderabad,Telangana,2023-04-19
+156,Customer 156,customer156@example.com,Kolkata,West Bengal,2024-11-03
+157,Customer 157,customer157@example.com,Mumbai,Maharashtra,2023-10-09
+158,Customer 158,customer158@example.com,Bengaluru,Karnataka,2024-10-21
+159,Customer 159,customer159@example.com,Jaipur,Rajasthan,2024-12-27
+160,Customer 160,customer160@example.com,Lucknow,Uttar Pradesh,2025-02-07
+161,Customer 161,customer161@example.com,Hyderabad,Telangana,2023-04-18
+162,Customer 162,customer162@example.com,Kolkata,West Bengal,2025-07-05
+163,Customer 163,customer163@example.com,Lucknow,Uttar Pradesh,2023-08-19
+164,Customer 164,customer164@example.com,Bengaluru,Karnataka,2023-02-07
+165,Customer 165,customer165@example.com,Mumbai,Maharashtra,2024-07-08
+166,Customer 166,customer166@example.com,Pune,Maharashtra,2024-01-06
+167,Customer 167,customer167@example.com,Hyderabad,Telangana,2025-04-09
+168,Customer 168,customer168@example.com,Chennai,Tamil Nadu,2025-03-19
+169,Customer 169,customer169@example.com,Lucknow,Uttar Pradesh,2023-11-14
+170,Customer 170,customer170@example.com,Bengaluru,Karnataka,2025-08-10
+171,Customer 171,customer171@example.com,Kolkata,West Bengal,2023-10-18
+172,Customer 172,customer172@example.com,Kolkata,West Bengal,2024-05-30
+173,Customer 173,customer173@example.com,Lucknow,Uttar Pradesh,2023-09-13
+174,Customer 174,customer174@example.com,Lucknow,Uttar Pradesh,2025-07-25
+175,Customer 175,customer175@example.com,Mumbai,Maharashtra,2023-06-14
+176,Customer 176,customer176@example.com,Pune,Maharashtra,2023-02-14
+177,Customer 177,customer177@example.com,Bengaluru,Karnataka,2024-03-11
+178,Customer 178,customer178@example.com,Lucknow,Uttar Pradesh,2025-09-19
+179,Customer 179,customer179@example.com,Mumbai,Maharashtra,2025-06-10
+180,Customer 180,customer180@example.com,Delhi,Delhi,2025-01-18
+181,Customer 181,customer181@example.com,Ahmedabad,Gujarat,2025-06-09
+182,Customer 182,customer182@example.com,Bengaluru,Karnataka,2025-06-12
+183,Customer 183,customer183@example.com,Mumbai,Maharashtra,2024-06-02
+184,Customer 184,customer184@example.com,Chennai,Tamil Nadu,2023-11-12
+185,Customer 185,customer185@example.com,Delhi,Delhi,2025-02-11
+186,Customer 186,customer186@example.com,Hyderabad,Telangana,2024-10-23
+187,Customer 187,customer187@example.com,Chennai,Tamil Nadu,2024-01-09
+188,Customer 188,customer188@example.com,Ahmedabad,Gujarat,2023-04-05
+189,Customer 189,customer189@example.com,Jaipur,Rajasthan,2025-01-16
+190,Customer 190,customer190@example.com,Hyderabad,Telangana,2023-09-20
+191,Customer 191,customer191@example.com,Delhi,Delhi,2025-07-25
+192,Customer 192,customer192@example.com,Lucknow,Uttar Pradesh,2023-08-29
+193,Customer 193,customer193@example.com,Delhi,Delhi,2023-05-03
+194,Customer 194,customer194@example.com,Delhi,Delhi,2025-04-11
+195,Customer 195,customer195@example.com,Ahmedabad,Gujarat,2023-06-03
+196,Customer 196,customer196@example.com,Jaipur,Rajasthan,2023-06-29
+197,Customer 197,customer197@example.com,Hyderabad,Telangana,2024-08-22
+198,Customer 198,customer198@example.com,Jaipur,Rajasthan,2025-05-24
+199,Customer 199,customer199@example.com,Delhi,Delhi,2023-07-16
+200,Customer 200,customer200@example.com,Bengaluru,Karnataka,2023-11-07
+201,Customer 201,customer201@example.com,Lucknow,Uttar Pradesh,2025-02-16
+202,Customer 202,customer202@example.com,Hyderabad,Telangana,2025-08-29
+203,Customer 203,customer203@example.com,Chennai,Tamil Nadu,2024-05-15
+204,Customer 204,customer204@example.com,Chennai,Tamil Nadu,2023-05-24
+205,Customer 205,customer205@example.com,Lucknow,Uttar Pradesh,2023-01-14
+206,Customer 206,customer206@example.com,Mumbai,Maharashtra,2023-08-18
+207,Customer 207,customer207@example.com,Bengaluru,Karnataka,2023-05-12
+208,Customer 208,customer208@example.com,Delhi,Delhi,2024-11-08
+209,Customer 209,customer209@example.com,Lucknow,Uttar Pradesh,2023-05-02
+210,Customer 210,customer210@example.com,Bengaluru,Karnataka,2024-05-21
+211,Customer 211,customer211@example.com,Lucknow,Uttar Pradesh,2024-11-25
+212,Customer 212,customer212@example.com,Jaipur,Rajasthan,2024-08-04
+213,Customer 213,customer213@example.com,Chennai,Tamil Nadu,2023-07-19
+214,Customer 214,customer214@example.com,Ahmedabad,Gujarat,2025-03-15
+215,Customer 215,customer215@example.com,Delhi,Delhi,2024-12-16
+216,Customer 216,customer216@example.com,Delhi,Delhi,2025-01-08
+217,Customer 217,customer217@example.com,Ahmedabad,Gujarat,2023-05-12
+218,Customer 218,customer218@example.com,Chennai,Tamil Nadu,2023-05-04
+219,Customer 219,customer219@example.com,Pune,Maharashtra,2025-07-16
+220,Customer 220,customer220@example.com,Delhi,Delhi,2024-02-02
+221,Customer 221,customer221@example.com,Lucknow,Uttar Pradesh,2023-10-28
+222,Customer 222,customer222@example.com,Mumbai,Maharashtra,2024-05-03
+223,Customer 223,customer223@example.com,Pune,Maharashtra,2024-10-24
+224,Customer 224,customer224@example.com,Hyderabad,Telangana,2025-08-13
+225,Customer 225,customer225@example.com,Pune,Maharashtra,2023-10-14
+226,Customer 226,customer226@example.com,Lucknow,Uttar Pradesh,2025-07-13
+227,Customer 227,customer227@example.com,Chennai,Tamil Nadu,2023-01-25
+228,Customer 228,customer228@example.com,Pune,Maharashtra,2024-07-09
+229,Customer 229,customer229@example.com,Mumbai,Maharashtra,2024-09-25
+230,Customer 230,customer230@example.com,Ahmedabad,Gujarat,2023-04-16
+231,Customer 231,customer231@example.com,Jaipur,Rajasthan,2023-05-21
+232,Customer 232,customer232@example.com,Jaipur,Rajasthan,2024-02-24
+233,Customer 233,customer233@example.com,Delhi,Delhi,2025-08-24
+234,Customer 234,customer234@example.com,Mumbai,Maharashtra,2024-08-19
+235,Customer 235,customer235@example.com,Mumbai,Maharashtra,2025-07-22
+236,Customer 236,customer236@example.com,Jaipur,Rajasthan,2025-03-15
+237,Customer 237,customer237@example.com,Chennai,Tamil Nadu,2024-04-12
+238,Customer 238,customer238@example.com,Kolkata,West Bengal,2025-02-23
+239,Customer 239,customer239@example.com,Ahmedabad,Gujarat,2023-01-18
+240,Customer 240,customer240@example.com,Kolkata,West Bengal,2023-04-20
+241,Customer 241,customer241@example.com,Bengaluru,Karnataka,2025-04-09
+242,Customer 242,customer242@example.com,Bengaluru,Karnataka,2025-03-07
+243,Customer 243,customer243@example.com,Chennai,Tamil Nadu,2023-08-21
+244,Customer 244,customer244@example.com,Hyderabad,Telangana,2024-06-14
+245,Customer 245,customer245@example.com,Jaipur,Rajasthan,2024-08-29
+246,Customer 246,customer246@example.com,Lucknow,Uttar Pradesh,2025-05-17
+247,Customer 247,customer247@example.com,Jaipur,Rajasthan,2024-08-26
+248,Customer 248,customer248@example.com,Bengaluru,Karnataka,2024-02-17
+249,Customer 249,customer249@example.com,Mumbai,Maharashtra,2024-01-10
+250,Customer 250,customer250@example.com,Lucknow,Uttar Pradesh,2024-03-01
