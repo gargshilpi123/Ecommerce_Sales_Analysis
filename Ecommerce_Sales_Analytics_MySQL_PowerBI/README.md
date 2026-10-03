@@ -66,7 +66,7 @@ Follow `docs/dashboard_guide.md` for the report layout and visuals. Add slicers 
 - Identified revenue trends, top-performing categories, repeat-customer behaviour and order-status patterns.
 
 Ecommerce Sales Analytics Model View
-- <img width="2880" height="1636" alt="Ecommerce" src="https://github.com/user-attachments/assets/8e8844fa-0392-4c58-b8c3-1951300d7576" />
+<img width="2880" height="1636" alt="Ecommerce" src="https://github.com/user-attachments/assets/8e8844fa-0392-4c58-b8c3-1951300d7576" />
 
 Ecommerce Sales Analytics Report View 
 <img width="2880" height="1640" alt="Ecommerce_Reportview" src="https://github.com/user-attachments/assets/73e30db3-d5d4-40a8-b868-8e14c2190573" />
