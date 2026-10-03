@@ -65,5 +65,8 @@ Follow `docs/dashboard_guide.md` for the report layout and visuals. Add slicers 
 - Developed Power BI KPI measures in DAX and designed an interactive multi-page dashboard with time, product and regional analysis.
 - Identified revenue trends, top-performing categories, repeat-customer behaviour and order-status patterns.
 
+- <img width="2880" height="1636" alt="Ecommerce" src="https://github.com/user-attachments/assets/8e8844fa-0392-4c58-b8c3-1951300d7576" />
+
+
 ## Important
 This is a learning/portfolio project built with generated synthetic data. Do not describe its findings as real company results. Add your own screenshots of the finished Power BI report to the `docs/` folder before publishing your portfolio.
